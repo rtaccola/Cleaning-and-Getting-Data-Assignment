@@ -88,7 +88,7 @@ fBodyBodyGyroMag-std()
 fBodyBodyGyroJerkMag-mean()
 fBodyBodyGyroJerkMag-std()**
 
-# Script
+## Script
 * It first downloads the DataSet.zip file into the “Data” directory, which is created if it doesn’t exist. 
 * Unzip the data set and reads the train, test, features and activity_labels into data frames. 
 * Merges the training and the test sets to create one data set.
