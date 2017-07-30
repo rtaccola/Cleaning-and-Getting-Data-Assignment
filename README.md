@@ -6,7 +6,7 @@ More information and full description of the original data collected is availabl
 
 ## Files
 
-* TidyDataSet.txt - A tidy data set resulted from transformations of the original data.
-* run_analysis.R - Script that downloads the DataSet.zip file that contains data sets and perform a series of transformations to these data sets which result in tidy data set. A full description of the script can be found in the CodeBook.mb file in this same repository.
-* README.mb - explains the analysis here performed.
-* CodeBook.md - a code book that describes the variables, the data, and any transformations or work that was performed to clean up the data.
+* **TidyDataSet.txt** - A tidy data set resulted from transformations of the original data.
+* **run_analysis.R** - Script that downloads the DataSet.zip file that contains data sets and perform a series of transformations to these data sets which result in tidy data set. A full description of the script can be found in the CodeBook.mb file in this same repository.
+* **README.md** - explains the analysis here performed.
+* **CodeBook.md** - a code book that describes the variables, the data, and any transformations or work that was performed to clean up the data.
