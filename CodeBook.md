@@ -3,21 +3,22 @@ This code book describes the variables, data, transformations and any work perfo
 
 ## Variables
 
-subjectID                  
+**subjectID**
 _Its range is from 1 to 30. Identifies the subject who performed the activity for each window sample._
 
-activityDescription   
-activityId
+**activityDescription   
+activityId**
 _Description and identification of the activities._
-1 WALKING
-2 WALKING_UPSTAIRS
-3 WALKING_DOWNSTAIRS
-4 SITTING
-5 STANDING
-6 LAYING
+
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
 
 _Variables based on the subjects and activities performed by each subject:_
-tBodyAcc-mean()-X          
+**tBodyAcc-mean()-X          
 tBodyAcc-mean()-Y          
 tBodyAcc-mean()-Z          
 tBodyAcc-std()-X           
@@ -82,7 +83,7 @@ fBodyBodyAccJerkMag-std()
 fBodyBodyGyroMag-mean()    
 fBodyBodyGyroMag-std()     
 fBodyBodyGyroJerkMag-mean()
-fBodyBodyGyroJerkMag-std() 
+fBodyBodyGyroJerkMag-std()**
 
 # Script
 * It first downloads the DataSet.zip file into the “Data” directory, which is created if it doesn’t exist. 
