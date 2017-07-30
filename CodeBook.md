@@ -4,10 +4,12 @@ This code book describes the variables, data, transformations and any work perfo
 ## Variables
 
 **subjectID**
+
 _Its range is from 1 to 30. Identifies the subject who performed the activity for each window sample._
 
 **activityDescription   
 activityId**
+
 _Description and identification of the activities._
 
 1. WALKING
@@ -18,6 +20,7 @@ _Description and identification of the activities._
 6. LAYING
 
 _Variables based on the subjects and activities performed by each subject:_
+
 **tBodyAcc-mean()-X          
 tBodyAcc-mean()-Y          
 tBodyAcc-mean()-Z          
